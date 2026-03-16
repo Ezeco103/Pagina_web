@@ -1,0 +1,38 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    color: #5988FF;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    color: #5988FF;
+    border-bottom: 3px solid #FD98FB;
+    text-decoration-color: #FD98FB;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: #FD98FB;
+    border-left: 4px solid #5988FF;
+    padding-left: 8px;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+}
+
+li {
+    font-size: 18px;
+    color: #5988FF;
+}
+
+ul {
+    border: 2px solid #D6FF6B;
+    padding: 10px;
+    background-color: #d8c4c400;
+}
